@@ -7,6 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=PatrickfBraz&style=flat-square" />
 </a>
 
+
 <!--
 **PatrickfBraz/PatrickfBraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -46,6 +47,8 @@ Feel free to contact me! ✉️
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 ---
 ### Account statistics
