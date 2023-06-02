@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Patrick Franco braz
 --- 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-franco-braz-752948163/)](https://www.linkedin.com/in/patrick-franco-braz-752948163/)
-[![medium](https://aleen42.github.io/badges/src/medium.svg)]()
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-franco-braz/)](https://www.linkedin.com/in/patrick-franco-braz/)
+[![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:patrickfbraz@poli.ufrj.br)](mailto:patrickfbraz@poli.ufrj.br)
 <a href="https://github.com/PatrickfBraz">
   <img src="https://komarev.com/ghpvc/?username=PatrickfBraz&style=flat-square" />
@@ -24,14 +24,15 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I am currently a graduate student in the course of electronic and computer engineering at the Federal University of Rio de Janeiro.
-- 🛤️ I'm acting as a data engineer at [Hurb](https://www.hurb.com/br/)🇧🇷.
-- 👷 Working with pipelines in Apache Beam and Apache Airflow.
-- 🌱 I’m currently learning and contributing to the construction of the data quality platform.
+- 🛤️ I'm acting as a data engineer at [Grupo Boritcário](https://www.grupoboticario.com.br/)🇧🇷.
+- 👷 Working with Data Governance and Data Quality.
+- 🌱 I’m currently learning and contributing to the [DataHub](https://datahubproject.io/) community.
 
 🔆 Some interests I would like to highlight:
   * Data Quality and Data Governance 🥇
   * Machine Learning :neckbeard:
   * Open source tools 💓
+  * Python 👯
 
 ☕ Unconditional coffee lover!
 
